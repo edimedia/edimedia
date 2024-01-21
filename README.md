@@ -10,7 +10,7 @@ I am the creator of OyaBytes. working with open-source in mind.....
 *   🖥️  See my portfolio at [OyaBytes](http://oyabytes.com)
 *   ✉️  You can contact me at [kilufyamutoke@gmail.com](mailto:kilufyamutoke@gmail.com)
 *   🚀  I'm currently working on [OyaBytes](http://github.com/OyaBytes)
-*   🤝  I'm open to collaborating on {\`Interresting projects\`}
+*   🤝  I'm open to collaborating on **Interresting projects**
 *   ⚡  Let's make a better place
 
 
