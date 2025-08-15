@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am the creator of OyaBytes. working with open-source in mind.....
+I am the creator of Oxiliere. working with open-source in mind.....
 
 *   🌍  I'm based in Lubumbashi
-*   🖥️  See my portfolio at [OyaBytes](http://oyabytes.com)
+*   🖥️  See my work at [Oxiliere](http://oxiliere.com)
 *   ✉️  You can contact me at [kilufyamutoke@gmail.com](mailto:kilufyamutoke@gmail.com)
-*   🚀  I'm currently working on [OyaBytes](http://github.com/OyaBytes)
+*   🚀  I'm currently working on [Oxiliere](http://oxiliere.com)
 *   🤝  I'm open to collaborating on **Interresting projects**
 *   ⚡  Let's make a better place
 
@@ -38,6 +38,3 @@ I am the creator of OyaBytes. working with open-source in mind.....
   </picture>
   </a></p>
 
-### Badges<b>My GitHub Stats</b>
-<a
-    href="http://www.github.com/edimedia"><img src="https://github-readme-stats.vercel.app/api?username=edimedia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="edimedia's GitHub stats" /></a><a href="https://github.com/edimedia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edimedia&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
