@@ -6,7 +6,7 @@ Software Engineer
 
 I am the creator of Oxiliere. working with open-source in mind.....
 
-*   🌍  I'm based in Lubumbashi
+*   🌍  I'm based in Lubumbashi (DRC)
 *   🖥️  See my work at [Oxiliere](http://oxiliere.com)
 *   ✉️  You can contact me at [kilufyamutoke@gmail.com](mailto:kilufyamutoke@gmail.com)
 *   🚀  I'm currently working on [Oxiliere](http://oxiliere.com)
